@@ -1,12 +1,12 @@
 {
-	"name": "damms005/laravel-activitylog-ui",
+	"name": "haroldas-zapalskis-orbio/laravel-activitylog-ui",
 	"description": "A Voyager-powered UI for the spatie/laravel-activitylog package that we all love!",
 	"type": "library",
 	"minimum-stability": "dev",
 	"authors": [
 		{
-			"name": "Damilola Olowookere",
-			"email": "damms005@gmail.com"
+			"name": "Haroldas Zapalskis",
+			"email": "haroldas.zapalskis@orbio.world"
 		}
 	],
 	"license": "MIT",
