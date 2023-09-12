@@ -2,6 +2,7 @@
 	"name": "damms005/laravel-activitylog-ui",
 	"description": "A Voyager-powered UI for the spatie/laravel-activitylog package that we all love!",
 	"type": "library",
+	"minimum-stability": "dev",
 	"authors": [
 		{
 			"name": "Damilola Olowookere",
